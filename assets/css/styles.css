@@ -380,18 +380,18 @@ img {
   border-radius: 0.5rem;
   overflow: hidden;
 }
-.work__img img {
-  /* transition: 1s; */
+/* .work__img img {
+  transition: 1s;
   cursor: pointer;
-}
+} */
+
 /* .work__img img:hover {
   transform: scale(1.1);
 } */
 
-
-.img__wrap {
+/* .img__wrap {
   position: relative;
-}
+} */
 
 .img__description {
   position: absolute;
@@ -404,10 +404,10 @@ img {
   transform: translate(-50%, -50%); */
   background: rgba(29, 154, 148, 0.158);
   color: #fff;
-  visibility: hidden;
+  /* visibility: hidden; */
   opacity: 0;
   text-align: center;
-  transition: opacity 0.2s, visibility 0.2s;
+  /* transition: opacity 0.2s, visibility 0.2s; */
 }
 
 .img__wrap:hover .img__description {
