@@ -415,7 +415,7 @@ img {
   opacity: 1;
 }
 
-.hvrbox .hvrbox-layer_slidedown {
+/* .hvrbox .hvrbox-layer_slidedown {
   -moz-transform: translateY(-100%);
   -webkit-transform: translateY(-100%);
   -ms-transform: translateY(-100%);
@@ -427,7 +427,7 @@ img {
   -webkit-transform: translateY(0);
   -ms-transform: translateY(0);
   transform: translateY(0);
-}
+} */
 
 /* ===== TIMELINE =====*/
 .main-timeline {
