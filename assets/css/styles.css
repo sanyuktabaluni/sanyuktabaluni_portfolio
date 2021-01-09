@@ -379,6 +379,9 @@ img {
   box-shadow: 0 4px 25px rgba(14, 36, 49, 0.15);
   border-radius: 0.5rem;
   overflow: hidden;
+  background: fixed repeat;
+  background: url(\assets/img/ml.jpg);
+  background: url(\assets/img/guitar-159362_1280.png);
 }
 /* .work__img img {
   transition: 1s;
@@ -403,6 +406,9 @@ img {
   left: 50%;
   transform: translate(-50%, -50%); */
   background: rgba(29, 154, 148, 0.158);
+  background: fixed repeat;
+  background: url(\assets/img/ml.jpg);
+  background: url(\assets/img/guitar-159362_1280.png);
   color: #fff;
   /* visibility: hidden; */
   opacity: 0;
